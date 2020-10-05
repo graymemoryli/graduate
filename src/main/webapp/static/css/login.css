@@ -1,0 +1,44 @@
+		#login{
+			position: absolute;
+			background-color: #D6D6D6;
+			left: 33%;
+			top: 30%;
+			right: 30%;
+			bottom: 30%;
+
+		}
+		.form{
+
+			position: absolute;
+			top:40%;
+			left: 30%;
+			
+		}
+		.img{
+
+			width: 6%;
+			height: 6%;
+		}
+		.btn{
+			background-color: #337ab7;
+			width:60%;
+			height: 20%;
+		}
+		.input{
+			height: 25%;
+			margin: 5px;
+		}
+		.head{
+			position: absolute;
+			top: 15%;
+			left: 25%;
+			font-size: 40px;
+
+
+		}
+
+
+		i{
+			font-size: 20px;
+		}
+
